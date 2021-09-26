@@ -1,0 +1,340 @@
+/*inside story list in mystery category*/
+
+
+.welcome-msg p
+{
+	text-align:center;
+	color:white;
+	font-size:25px;
+	font-family:serif;
+	margin-bottom:50px;
+	
+}	
+		
+.welcome-msg h1
+{
+	
+	text-align:center;
+	font-family:monospace;
+	color:pink;
+	font-size:100px;
+	padding-top:70px;
+}
+.listv ul li{
+		position:sticky;
+		display:inline-block;
+		font-size:30px;
+		padding-right:0px;
+		margin-top:40px;
+		margin-left:500px;
+		
+}
+
+
+.listv ul li a{
+	text-decoration:none;
+	padding:5px 96px;
+	color:white;
+	background-color: #ff8c1a;
+	border:0px solid;
+	border-radius:50px;
+	
+}
+.listv ul li a:hover{
+	background-color:white;
+	color: #ff8c1a;
+	transition:0.5s;
+	
+}
+.listbod ul li{
+		position:sticky;
+		display:inline-block;
+		font-size:30px;
+		padding-right:0px;
+		margin-top:40px;
+		margin-left:500px;
+		
+}
+
+
+.listbod ul li a{
+	text-decoration:none;
+	padding:5px 55px;
+	color:white;
+	background-color: #ff8c1a;
+	border:0px solid;
+	border-radius:50px;
+	
+}
+.listbod ul li a:hover{
+	background-color:white;
+	color: #ff8c1a;
+	transition:0.5s;
+	
+}
+.listdw ul li{
+		position:sticky;
+		display:inline-block;
+		font-size:30px;
+		padding-right:0px;
+		margin-top:40px;
+		margin-left:500px;
+		
+}
+
+
+.listdw ul li a{
+	text-decoration:none;
+	padding:5px 26px;
+	color:white;
+	background-color: #ff8c1a;
+	border:0px solid;
+	border-radius:50px;
+	
+}
+.listdw ul li a:hover{
+	background-color:white;
+	color: #ff8c1a;
+	transition:0.5s;
+	
+}
+.listprof ul li{
+		position:sticky;
+		display:inline-block;
+		font-size:30px;
+		padding-right:0px;
+		margin-top:45px;
+		margin-left:500px;
+		
+}
+
+
+.listprof ul li a{
+	text-decoration:none;
+	padding:5px 15px;
+	color:white;
+	background-color: #ff8c1a;
+	border:0px solid;
+	border-radius:50px;
+	
+}
+.listprof ul li a:hover{
+	background-color:white;
+	color: #ff8c1a;
+	transition:0.5s;
+	
+}
+
+.listhom ul li{
+		float:right;
+		display:inline-block;
+		font-size:18px;
+		padding-right:10px;
+		padding-top:20px;
+		
+}
+
+
+.listhom ul li a{
+	text-decoration:none;
+	padding:5px 15px;
+	color:black;
+	border:3px solid;
+	border-radius:10px;
+	background-color:white;
+	
+}
+.listhom ul li a:hover{
+	background-color:black;
+	color:white;
+	transition:0.5s;
+	
+}
+
+
+.background1{
+			width:100%;
+			height:100vh;
+			background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0)),url(lovebg1.jpg);
+			background-size:cover;
+			background-position:center;
+}
+
+
+
+    /*inside light mode story*/
+
+
+
+
+.headingbody h1{
+				color:#e60000;
+				font-size:70px;
+				text-align:center;
+				font-family:cursive;
+				padding-top:1px;
+				
+				}
+
+			
+.listbody ul li{
+		float:right;
+		display:inline-block;
+		font-size:22px;
+		padding-right:10px;
+		padding-top:25px;
+}
+
+
+.listbody ul li a{
+	text-decoration:none;
+	padding:5px 15px;
+	color:red;
+	border:0px solid;
+	border-radius:10px;
+	background-color:#ffff00;
+	
+}
+.listbody ul li a:hover{
+	background-color:#ff0000;
+	color:#FFFA3B;
+	transition:0.5s;
+	
+}
+.listdark ul li{
+		float:right;
+		display:inline-block;
+		font-size:22px;
+		padding-right:10px;
+		padding-top:25px;
+}
+
+
+.listdark ul li a{
+	text-decoration:none;
+	padding:5px 15px;
+	color:black;
+	border:2px solid;
+	border-radius:10px;
+	background-color:white;
+	
+}
+.listdark ul li a:hover{
+	background-color:black;
+	color:white;
+	transition:0.5s;
+	
+}
+.backgroundbody{
+			width:100%;
+			height:100%;
+			background-color: #4158D0;
+			background-image: linear-gradient(43deg, #FFFA3B,#FF5925);
+			background-size:cover;
+			background-position:center;
+			
+
+}
+
+	
+	
+.aboutbody{
+	color:black;
+	font-size:30px;
+	position:center;
+	padding-left:100px;
+	padding-right:100px;
+	padding-bottom:100px;
+	
+	
+}
+
+
+
+/* inside dark mode story*/
+
+
+.headingdbody h1{
+				color:white;
+				font-size:70px;
+				text-align:center;
+				font-family:cursive;
+				padding-top:1px;
+				
+				}
+
+			
+.listdbody ul li{
+		float:right;
+		display:inline-block;
+		font-size:22px;
+		padding-right:10px;
+		padding-top:25px;
+}
+
+
+.listdbody ul li a{
+	text-decoration:none;
+	padding:5px 15px;
+	color:black;
+	border:0px solid;
+	border-radius:10px;
+	background-color:#f2f2f2;
+	
+}
+.listdbody ul li a:hover{
+	background-color:grey;
+	color:white;
+	transition:0.5s;
+	
+}
+.listlight ul li{
+		float:right;
+		display:inline-block;
+		font-size:22px;
+		padding-right:10px;
+		padding-top:25px;
+}
+
+
+.listlight ul li a{
+	text-decoration:none;
+	padding:5px 15px;
+	color:black;
+	border:2px solid;
+	border-radius:10px;
+	background-color:white;
+	
+}
+.listlight ul li a:hover{
+	background-color:grey;
+	color:white;
+	transition:0.5s;
+	
+}
+.backgrounddbody{
+			width:100%;
+			height:100%;
+			
+			background-image: linear-gradient(#000000,#434343);
+			background-size:cover;
+			background-position:center;
+			
+
+}
+
+	
+	
+.aboutdbody{
+	color:#d9d9d9;
+	font-size:30px;
+	position:center;
+	padding-left:100px;
+	padding-right:100px;
+	padding-bottom:100px;
+	
+	
+}
+
+
+
